@@ -5,7 +5,7 @@ todo
 
 ### Link del proyecto 
 
-se puede ver [aca](https://github.com/franjuarez/Taller-Worms) el repositorio
+se puede ver [aca](https://github.com/franjuarez/Taller-Worms){: .btn} el repositorio
 
 
 
