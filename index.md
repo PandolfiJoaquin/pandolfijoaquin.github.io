@@ -11,13 +11,16 @@ todo
 
 
 ### Desarrolladores
-Joaquin Pandolfi
-Francisco Juarez (Monke)
-Martu Lozano
+- Joaquin Pandolfi
+- Francisco Juarez (Monke)
+- Martu Lozano
+
 
 ### Agradecimientos
-Martin Di Paola
-Delf, Fati, etc.
+- Martin Di Paola
+- Delf
+- Fati
+- Belu
 
 
 
