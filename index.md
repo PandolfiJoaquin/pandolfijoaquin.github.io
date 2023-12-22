@@ -1,13 +1,7 @@
 ## Descripcion
 
 todo
-
-<iframe src="https://www.youtube.com/watch?v=gN5hj3vXMX8" 
-    width="560" 
-    height="315"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gN5hj3vXMX8?si=1HT1X_J2LpwKljns" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Link del proyecto 
 
