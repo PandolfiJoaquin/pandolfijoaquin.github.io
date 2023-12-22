@@ -5,7 +5,8 @@ todo
 
 ### Link del proyecto 
 
-<iframe width="560" height="315" src="https://github.com/franjuarez/Taller-Worms" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+se puede ver [aca](https://github.com/franjuarez/Taller-Worms) el repositorio
+
 
 
 
