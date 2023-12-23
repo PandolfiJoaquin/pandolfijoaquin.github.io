@@ -5,7 +5,7 @@ description: Juego multijugador online donde los competidores se desafian a muer
 
 ## Descripcion
 
-En este novedoso remake del clasico juego Worms, podras enfrentarte a otros oponentes con tu ejercito de gusanos diseñados geneticamente para la guerra y el combate.
+En este *novedoso* remake del clasico juego Worms, podras enfrentarte a otros oponentes con tu ejercito de gusanos diseñados geneticamente para la guerra y el combate.
 Contaras con varias armas y mas para obtener a lo largo de la partida. Juega con  tus amigos, diviertete y triunfa!
 
 
