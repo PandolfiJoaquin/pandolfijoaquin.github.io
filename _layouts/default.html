@@ -6,16 +6,21 @@
   <title>Worms: The Remake</title>
 </head>
 <body>
+    <header class="page-header" role="banner">
+        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">
+            {{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 
-  <!-- Botón para ir a la página de GitHub -->
-  <a href="https://github.com/franjuarez/Taller-Worms" target="_blank">
-    <button>Ir a GitHub</button>
-  </a>
+        <a href="index.html" class="btn">Inicio</a>
+        <a href="tutorial.html" class="btn">Tutorial</a>
+        <a href="https://github.com/franjuarez/Taller-Worms" target="_blank" class="btn">Ver en GitHub</a>
+    </header>
 
-  <!-- Botón para ir a la subpágina de Tutorial -->
-  <a href="tutorial.md">
-    <button>Ir a Tutorial</button>
-  </a>
+    <main id="content" class="main-content" role="main">
+        {{ content }}
+    </main>
+
+    
 
 </body>
 </html>

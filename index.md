@@ -1,3 +1,8 @@
+---
+title: Worms The Remake
+description: Juego multijugador online por turnos donde los competidores se desafian a muerte con amplia variedad de armas, luchando por la gloria y el honor de ser el vencedor.
+---
+
 ## Descripcion
 
 todo
