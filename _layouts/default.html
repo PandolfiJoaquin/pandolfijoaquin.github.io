@@ -14,12 +14,16 @@
 </head>
 <body>
     <header class="page-header" role="banner">
-        <h1 class="project-name">{{ page.title }}</h1>
+        <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
+        <h1 class="project-name">{{ page.title}}</h1>
+
         <h2 class="project-tagline">
-            {{ page.description }}</h2>
+            <!-- {{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
+            {{page.description}}</h2>
 
         <a href="index.html" class="btn">Inicio</a>
         <a href="tutorial.html" class="btn">Tutorial</a>
+        <a href="nosotros.html" target="_blank" class="btn">Nosotros</a>
         <a href="https://github.com/franjuarez/Taller-Worms" target="_blank" class="btn">Ver en GitHub</a>
     </header>
 
