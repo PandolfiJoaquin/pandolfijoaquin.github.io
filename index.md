@@ -13,10 +13,6 @@ El juego consiste en una dinámica por turnos donde cada jugador, junto a su equ
 
 Puedes elegir el escenario en el que sucedera este mitico combate que quedara grabado en la historia, o incluso crear uno propio! Podras configurar el juego para que sea lo más divertido posible permitiendo una infinidad de combinaciones para el combate. La diversión nunca acaba!!
 
+## Trailer
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gN5hj3vXMX8?si=1HT1X_J2LpwKljns" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-### Link del proyecto 
-
-<p><a href="https://github.com/franjuarez/Taller-Worms">Repositorio en github</a></p>
-
