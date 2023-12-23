@@ -1,5 +1,5 @@
 ---
-title: Worms The Remake
+title: Worms
 description: Juego multijugador online por turnos donde los competidores se desafian a muerte con amplia variedad de armas, luchando por la gloria y el honor de ser el vencedor.
 ---
 
@@ -11,9 +11,6 @@ todo
 ### Link del proyecto 
 
 <p><a href="https://github.com/franjuarez/Taller-Worms">Repositorio en github</a></p>
-
-
-
 
 
 ### Desarrolladores
