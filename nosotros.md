@@ -2,7 +2,7 @@
 
 <div>
  <p>Francisco Juarez (Monke)</p>
- <img src="assets/francisco.png" alt="Francisco Juarez (Monke)">
+ <img src="assets/pancho.png" alt="Francisco Juarez (Monke)">
 </div>
 
 <div>
