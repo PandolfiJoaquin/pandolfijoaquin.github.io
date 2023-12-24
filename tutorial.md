@@ -1,6 +1,6 @@
 ---
 title: Tutorial
-description: Aqui se vera como instalar y jugar este maravilloso juego
+description: Como instalar y jugar este maravilloso proyecto
 ---
 
 ## lorem ipsum
