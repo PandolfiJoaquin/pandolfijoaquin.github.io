@@ -3,6 +3,12 @@ title: Worms The Remake
 description: Juego multijugador online donde los competidores se desafian a muerte, luchando por la gloria y el honor de ser el vencedor.
 ---
 
+## Sobre el proyecto
+
+Este proyecto fue hecho en el marco de un trabajo practico para la materia Taller de  Programacion I (Cátedra Veiga) de la Facultad de Ingenieria de la Universidad de Buenos Aires  (FIUBA).
+Fue realizado en un período de 7 semanas, por un [equipo de 3 personas](nosotros.html). Enfrentandonos al desafío de coordinarnos entre los integrantes, dividiendo responsabilidades y revisando prioridades individuales para asegurar el progreso grupal. Otro reto al que nos tuvimos que enfrentar fue el usar tecnologias nuevas, como lo es un framework gráfico como QT y una libreria grafica de bajo nivel como SDL y el motor físico 2D, Box2D.
+
+
 ## Descripción
 
 <!-- Jumitas, La curiosidad mato al gato... -->
