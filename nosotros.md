@@ -1,4 +1,6 @@
-### Desarrolladores
+---
+title: Nosotros
+---
 
 <div style="display: flex; justify-content: space-between;">
  <div style="margin-right: 20px;">
