@@ -21,7 +21,7 @@ Una vez instalado el juego este se puede correr desde cualquier directorio de la
   $ ./wormsClient
   ```
 
-Este comando abrira la interfaz grafica y elgiiendo la IP y el puerto a donde conectarse ya se puede disfrutar de este maravilloso juego.
+Este comando abrira la interfaz grafica y elgiendo la IP y el puerto a donde conectarse ya se puede disfrutar de este maravilloso juego.
 
 
 ## Como jugar
