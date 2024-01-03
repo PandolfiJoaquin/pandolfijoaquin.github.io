@@ -64,7 +64,7 @@ En esta decidimos a que partida unirnos a traves del menu desplegable. En caso d
 
 Dejamos un pequeño ejemplo de como se puede crear una partida y unirse a ella usando un mapa oficial:
 
-![video ejemplo](https://github.com/PandolfiJoaquin/pandolfijoaquin.github.io/assets/90098530/67b714a0-0054-4c75-bd27-63f3593b3dbf)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ip0UzGcT8h0?si=rtSa-3MzmBO9t6eY" title="Tutorial de como crear una partida" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Configuraciones
 
