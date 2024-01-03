@@ -64,7 +64,7 @@ En esta decidimos a que partida unirnos a traves del menu desplegable. En caso d
 
 Dejamos un pequeño ejemplo de como se puede crear una partida y unirse a ella usando un mapa oficial:
 
-https://github.com/PandolfiJoaquin/pandolfijoaquin.github.io/assets/90098530/67b714a0-0054-4c75-bd27-63f3593b3dbf
+![video ejemplo](https://github.com/PandolfiJoaquin/pandolfijoaquin.github.io/assets/90098530/67b714a0-0054-4c75-bd27-63f3593b3dbf)
 
 ## Configuraciones
 
