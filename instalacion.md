@@ -6,7 +6,6 @@ description: Guia de Instalacion
 ## Requisitos minimos
 
 * Sistema Operativo basado en Debian (Ubuntu, Mint, etc.)
-* notebook del gobierno
 
 ## Instalacion
 
