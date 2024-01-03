@@ -21,4 +21,4 @@ Puedes elegir el escenario en el que sucedera este mitico combate que quedara gr
 
 ## Trailer
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gN5hj3vXMX8?si=1HT1X_J2LpwKljns" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HWhLbQu02Hc" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
