@@ -28,7 +28,8 @@ Este comando abrira la interfaz grafica y elgiiendo la IP y el puerto a donde co
 
 Una vez introducida la IP y el puerto veremos la siguiente pantalla:
 
-![start-lobby](https://github.com/franjuarez/Taller-Worms/assets/90098530/3d40a9e2-be88-425a-b91c-4c6c4971a7f6)
+![start_game_lobby](https://github.com/PandolfiJoaquin/pandolfijoaquin.github.io/assets/90098530/01c9e1a0-dae8-443d-bbac-d7056398b4b1)
+
 
 ### Crear una partida
 
@@ -36,8 +37,7 @@ Para jugar primero hay que crearla, por ende tocamos la opcion: `Create Game`.
 
 Dentro veremos la siguiente pantalla:
 
-
-![create-game-lobby](https://github.com/franjuarez/Taller-Worms/assets/90098530/07e0de96-d300-4b7e-82b2-31d75bbb3632)
+![create_game_lobby](https://github.com/PandolfiJoaquin/pandolfijoaquin.github.io/assets/90098530/b09e2c57-f2bd-4f50-b338-ed0c2acec6df)
 
 En esta debemos elegir:
 * La cantidad de jugadores (1-4)
@@ -55,7 +55,8 @@ Para unirse a una partida navegamos hacia `Join Game`.
 
 Dentro veremos:
 
-![join-game-lobby](https://github.com/franjuarez/Taller-Worms/assets/90098530/bd984d29-78f4-435d-9d79-dd920881548b)
+![join-game-lobby](https://github.com/PandolfiJoaquin/pandolfijoaquin.github.io/assets/90098530/42b33df1-a737-4fb1-8261-797ee6cd9706)
+
 
 En esta decidimos a que partida unirnos a traves del menu desplegable. En caso de crear partidas despuesde tener abierto el cliente se puede tocar el boton de refresh para buscar las ultimas partidas creadas.
 
@@ -63,7 +64,7 @@ En esta decidimos a que partida unirnos a traves del menu desplegable. En caso d
 
 Dejamos un pequeño ejemplo de como se puede crear una partida y unirse a ella usando un mapa oficial:
 
-https://github.com/franjuarez/Taller-Worms/assets/90098530/5981a719-9928-4e01-b0df-fc507f8a5cee
+https://github.com/PandolfiJoaquin/pandolfijoaquin.github.io/assets/90098530/67b714a0-0054-4c75-bd27-63f3593b3dbf
 
 ## Configuraciones
 
