@@ -10,7 +10,7 @@ Una vez instalado el juego este se puede correr desde cualquier directorio de la
 * Primero hay que abrir el servidor, para esto hay que ejecutar en una terminal:
 
   ```bash
-  ./wormsServer <puerto>
+  $ ./wormsServer <puerto>
   ```
   
   *Nota: Reemplazar `<puerto>` por el numero puerto deseado.*
@@ -18,7 +18,7 @@ Una vez instalado el juego este se puede correr desde cualquier directorio de la
 * Una vez tengamos el server corriendo en una terminal abrimos otra y ejecutamos lo siguiente:
 
   ```bash
-  ./wormsClient
+  $ ./wormsClient
   ```
 
 Este comando abrira la interfaz grafica y elgiiendo la IP y el puerto a donde conectarse ya se puede disfrutar de este maravilloso juego.
