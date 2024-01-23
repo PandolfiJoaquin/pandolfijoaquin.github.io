@@ -18,7 +18,3 @@ Podrás obtener todo tipo de armas a lo largo de la partida. Juega con tus amigo
 El juego consiste en una dinámica por turnos donde cada jugador, junto a su equipo de gusanos, deberá seleccionar cuidadosamente sus movimientos en cada turno para tomar la delantera y dominar al rival. En tu turno puedes moverte o usar las diferentes armas para ganar la mayor ventaja posible. Aunque no será tarea fácil, cada arma tiene balas limitadas! Para conseguir más munición o hasta armas nuevas tienes que llegar antes que nadie a las cajas de suministros. Pero ojo! Estas pueden darte armas, munición, vida o hasta ser una trampa!
 
 Puedes elegir el escenario en el que sucedera este mitico combate que quedara grabado en la historia, o incluso crear uno propio! Podras configurar el juego para que sea lo más divertido posible permitiendo una infinidad de combinaciones para el combate. La diversión nunca acaba!!
-
-## Trailer
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HWhLbQu02Hc" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
